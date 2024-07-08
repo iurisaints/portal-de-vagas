@@ -106,7 +106,7 @@ function displayVagasList(data) {
           vagaLink.appendChild(vagaAnchor);
 
           const vagaPhone = document.createElement('p');
-          vagaPhone.textContent = `Instagram: ${vaga.telefone}`;
+          vagaPhone.textContent = `${vaga.telefone}`;
 
           vagaItem.appendChild(vagaImage);
           vagaItem.appendChild(vagaTitle);
