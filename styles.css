@@ -44,6 +44,7 @@ main {
     justify-content: center;
     gap: 20px;
     width: 100%;
+    flex-wrap: wrap; /* Permite que os itens se ajustem ao espaço disponível */
 }
 
 .vaga-item {
@@ -73,4 +74,29 @@ main {
     margin: 5px 0;
     font-size: 0.9em;
     color: #333;
+}
+
+/* Media Queries para responsividade */
+@media (max-width: 1200px) {
+    main {
+        padding: 15px;
+        margin: 15px 0;
+    }
+
+    .vaga-item {
+        flex: 1 1 calc(50% - 20px);
+        max-width: none;
+    }
+}
+
+@media (max-width: 768px) {
+    main {
+        padding: 10px;
+        margin: 10px 0;
+    }
+
+    .vaga-item {
+        flex: 1 1 calc(100% - 20px);
+        max-width: none;
+    }
 }
