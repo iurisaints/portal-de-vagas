@@ -1,45 +1,10 @@
 let vagas =  [
     {
-      nome: "React & Node Developer (Remote)",
-      endereco: "Vipany Global Solutions Pvt Ltd",
-      link: "https://www.linkedin.com/jobs/view/3969485102/?alternateChannel=search&refId=toTqv4XoxVlxHkMJaivIYA%3D%3D&trackingId=jDFLvCFkHy9hr0xpxKf3fA%3D%3D&trk=d_flagship3_search_srp_jobs",
-      telefone: "vipanygroup.com",
-      thumbnail: "https://media.licdn.com/dms/image/D5622AQH_ic1iVCHLsA/feedshare-shrink_2048_1536/0/1711006752159?e=1723075200&v=beta&t=258vJdYyWCkrYnzoSgzRZo5LrTNo0YNVskzztt4EtAQ"
-    },
-    {
-      nome: "Estágio em Desenvolvimento de Software",
-      endereco: "Radix Brasil",
-      link: "https://www.linkedin.com/jobs/view/3960509406/?alternateChannel=search&refId=BWOHGZymavjQ7gruq%2BkBaw%3D%3D&trackingId=NoHYyDTZmJ%2BoueM7Eu3VZA%3D%3D",
-      telefone: "@radixeng",
-      thumbnail: "https://media.licdn.com/dms/image/D4D09AQGsxQP0hSQsgQ/company-featured_1128_635/0/1684351075542?e=1724889600&v=beta&t=NedIlmJYlMypkzbdKkDW-jZ4TaCyOsk86PkCQHRvp88"
-    },
-    {
-      nome: "Estágio em Desenvolvedor Full Stack Trabalho Remoto Estágio",
-      endereco: "Instituto de Pesquisas Eldorado",
-      link: "https://www.linkedin.com/jobs/view/3955450665/?alternateChannel=search&refId=x5hsV09pP7Yx0PH6LLrExA%3D%3D&trackingId=QKAHIXo6quDn6DnD64yY%2Fw%3D%3D&trk=d_flagship3_search_srp_jobs",
-      telefone: "@institutoeldorado",
-      thumbnail: "https://media.licdn.com/dms/image/D4D10AQEplxkKo4Xoxw/image-shrink_800/0/1719572464270?e=1720976400&v=beta&t=1XJdX9TzeZO4uA5IbZoEu05KK7eg1qeJWarW5CgTCoA"
-    },
-    {
-        nome: "Arquiteto de Sistemas I",
-        endereco: "Aegea Saneamento",
-        link: "https://www.linkedin.com/jobs/view/3952977209/?alternateChannel=search&refId=x5hsV09pP7Yx0PH6LLrExA%3D%3D&trackingId=I5YR3A9YUVyjcVmIo7O7RQ%3D%3D",
-        telefone: "aegea.com.br",
-        thumbnail: "https://media.licdn.com/dms/image/D4D09AQEAWsMJSCABcg/company-featured_1128_635/0/1670434438461?e=1726099200&v=beta&t=083TOLR63ZetCgk9OKsrRxKkyhXaGLaVEXECAyq0bpw"
-    },
-    {
-        nome: "Analista de Sistemas de TI",
-        endereco: "Lojas Renner S.A.",
-        link: "https://www.linkedin.com/jobs/view/3918496964/?alternateChannel=search&refId=x5hsV09pP7Yx0PH6LLrExA%3D%3D&trackingId=NkskK%2FwXlt3Z5XIKm432Dg%3D%3D&trk=d_flagship3_search_srp_jobs",
-        telefone: "@lojasrenner",
-        thumbnail: "https://media.licdn.com/dms/image/D4D22AQHEg2S66AiuWQ/feedshare-shrink_1280/0/1719100698705?e=1723075200&v=beta&t=mlBiMBzQhWcnIAltDKuik3GBCHJdLpd_3MOzQNwXRIA"
-    },
-    {
-        nome: "Desenvolvedor(a) de Software - Desktop (Presencial)",
-        endereco: "Nelogica",
-        link: "https://www.linkedin.com/jobs/view/3961702958/?alternateChannel=search&refId=BtcJZ9p4u8%2BizK2e66hcLQ%3D%3D&trackingId=ItdaIiHPlTVmO0%2FrRDPXpg%3D%3D",
-        telefone: "@nelogica_brasil",
-        thumbnail: "https://media.licdn.com/dms/image/D4D22AQG5cGQPB6UuUw/feedshare-shrink_1280/0/1718651813412?e=1723075200&v=beta&t=IqlgP4w45ilQj87Vjj8mEGzAeUhC7T-9Y4RA3dQrL3I"
+      nome: "+ de 600 vagas!",
+      endereco: "Nerdin Vagas de TI",
+      link: "https://www.linkedin.com/posts/nerdin_temos-vagas-confira-100-home-office-activity-7218562448641949696-k9gQ?utm_source=share&utm_medium=member_desktop",
+      telefone: "www.nerdin.com.br/vagas",
+      thumbnail: "https://media.licdn.com/dms/image/D4D22AQGIt3wqQCab5Q/feedshare-shrink_1280/0/1720812140206?e=1723680000&v=beta&t=2gJlqJn0yspnjPOlekReHUcjRitv15XJbOAQttLXj7s"
     }
   ]
 
