@@ -4,21 +4,21 @@ let vagas =  [
       endereco: "Dell Technologies",
       link: "https://www.linkedin.com/jobs/view/3980879296/?alternateChannel=search&refId=wS4WPQStU4K5ptnvbsEQYQ%3D%3D&trackingId=3wte%2BNXFPrp9JllRXT2NRQ%3D%3D",
       telefone: "@dellnobrasil",
-      thumbnail: "https://images.app.goo.gl/8R5JgXEUNBbYrT8w8"
+      thumbnail: "https://m.media-amazon.com/images/I/71Z6zYMvZZL.jpg"
     },
     {
       nome: "Data Science Intern - Digital and Transformation Office",
       endereco: "HP",
       link: "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Data-Science-Intern---Digital-and-Transformation-Office_3139272-2?source=Socialmedia-LinkedIn&src=Linkedin+Full+Feed",
       telefone: "@hpbrasil",
-      thumbnail: "https://images.app.goo.gl/u6yHT1JodPgf7VJ6A"
+      thumbnail: "https://s2-g1.glbimg.com/JTb7QfxAN4y4pR--WxJfOsLieBQ=/0x0:640x426/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/T/T/a1TLpyQRK8IAU9tYwPVQ/hp.jpg"
     },
     {
       nome: "Processo Seletivo 2024.2 - Estágio em desenvolvimento Fullstack",
       endereco: "EloGroup",
       link: "https://elogroup.gupy.io/job/eyJqb2JJZCI6NzQ1MjgyMywic291cmNlIjoibGlua2VkaW4ifQ==?jobBoardSource=linkedin",
       telefone: "@ojeitoelogroup",
-      thumbnail: "https://images.app.goo.gl/ESF3Y584sJScEt2A7"
+      thumbnail: "https://images.sympla.com.br/5c6db47a05cf6.png"
     }    
   ]
 
