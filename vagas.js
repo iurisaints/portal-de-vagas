@@ -1,11 +1,25 @@
 let vagas =  [
     {
-      nome: "+ de 600 vagas!",
-      endereco: "Nerdin Vagas de TI",
-      link: "https://www.linkedin.com/posts/nerdin_temos-vagas-confira-100-home-office-activity-7218562448641949696-k9gQ?utm_source=share&utm_medium=member_desktop",
-      telefone: "www.nerdin.com.br/vagas",
-      thumbnail: "https://media.licdn.com/dms/image/D4D22AQGIt3wqQCab5Q/feedshare-shrink_1280/0/1720812140206?e=1723680000&v=beta&t=2gJlqJn0yspnjPOlekReHUcjRitv15XJbOAQttLXj7s"
-    }
+      nome: "Estágio em TI - Suporte Técnico",
+      endereco: "Dell Technologies",
+      link: "https://www.linkedin.com/jobs/view/3980879296/?alternateChannel=search&refId=wS4WPQStU4K5ptnvbsEQYQ%3D%3D&trackingId=3wte%2BNXFPrp9JllRXT2NRQ%3D%3D",
+      telefone: "@dellnobrasil",
+      thumbnail: "https://images.app.goo.gl/8R5JgXEUNBbYrT8w8"
+    },
+    {
+      nome: "Data Science Intern - Digital and Transformation Office",
+      endereco: "HP",
+      link: "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Porto-Alegre-Rio-Grande-do-Sul-Brazil/Data-Science-Intern---Digital-and-Transformation-Office_3139272-2?source=Socialmedia-LinkedIn&src=Linkedin+Full+Feed",
+      telefone: "@hpbrasil",
+      thumbnail: "https://images.app.goo.gl/u6yHT1JodPgf7VJ6A"
+    },
+    {
+      nome: "Processo Seletivo 2024.2 - Estágio em desenvolvimento Fullstack",
+      endereco: "EloGroup",
+      link: "https://elogroup.gupy.io/job/eyJqb2JJZCI6NzQ1MjgyMywic291cmNlIjoibGlua2VkaW4ifQ==?jobBoardSource=linkedin",
+      telefone: "@ojeitoelogroup",
+      thumbnail: "https://images.app.goo.gl/ESF3Y584sJScEt2A7"
+    }    
   ]
 
 document.addEventListener('DOMContentLoaded', function () {
