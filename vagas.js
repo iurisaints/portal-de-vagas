@@ -1,10 +1,10 @@
 let vagas =  [
     {
-      nome: "Estágio em TI - Suporte Técnico",
-      endereco: "Dell Technologies",
-      link: "https://www.linkedin.com/jobs/view/3980879296/?alternateChannel=search&refId=wS4WPQStU4K5ptnvbsEQYQ%3D%3D&trackingId=3wte%2BNXFPrp9JllRXT2NRQ%3D%3D",
-      telefone: "@dellnobrasil",
-      thumbnail: "https://m.media-amazon.com/images/I/71Z6zYMvZZL.jpg"
+      nome: "Estágio em TI - Suporte Técnico (Enviar currículo por email)",
+      endereco: "iHelpU",
+      link: "vagner.melo@ihelpu.com.br",
+      telefone: "@ihelpu",
+      thumbnail: "https://ihelpu.com.br/wp-content/uploads/2022/03/nh-1.jpg.webp"
     },
     {
       nome: "Data Science Intern - Digital and Transformation Office",
